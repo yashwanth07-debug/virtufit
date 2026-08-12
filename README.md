@@ -7,6 +7,10 @@
 Upload a selfie + a garment → get a realistic preview of you wearing it in ~20 seconds.
 Powered by the **YouCam cloth-v3** virtual try-on API.
 
+## 🎬 Demo video
+
+▶ **Watch the 54-second demo: [`demo/virtufit-demo.mp4`](demo/virtufit-demo.mp4)** — live walkthrough with narration: pick a person, pick a garment, real AI try-on, download the result.
+
 ## 🔒 Privacy-first by design (no backend at all)
 
 - **Zero backend** — pure static frontend. The only network call is the try-on request to the YouCam API (CORS-enabled, client key).
