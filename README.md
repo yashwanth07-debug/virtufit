@@ -9,7 +9,11 @@ Powered by the **YouCam cloth-v3** virtual try-on API.
 
 ## 🎬 Demo video
 
-▶ **Watch the 54-second demo: [`demo/virtufit-demo.mp4`](demo/virtufit-demo.mp4)** — live walkthrough with narration: pick a person, pick a garment, real AI try-on, download the result.
+▶ **Watch on YouTube:** [youtu.be/QBXrbp-O_5w](https://youtu.be/QBXrbp-O_5w)
+
+Play it right here (or [download the MP4](demo/virtufit-demo.mp4)) — a 54-second walkthrough with narration: pick a person, pick a garment, real AI try-on, download the result.
+
+<video controls width="100%" src="demo/virtufit-demo.mp4"></video>
 
 ## 🔒 Privacy-first by design (no backend at all)
 
